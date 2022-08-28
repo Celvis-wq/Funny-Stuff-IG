@@ -1,4 +1,4 @@
-bux = 0
+vbux = 0
 import time
 
 wanted = int(input("how many vbucks do u want: "))
